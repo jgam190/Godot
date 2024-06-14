@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/maro-jump-sound-effect_1.mp3-6feb7a2d0facade1d94f24d63c449018.mp3str"
+
+[deps]
+
+source_file="res://assets/maro-jump-sound-effect_1.mp3"
+dest_files=[ "res://.import/maro-jump-sound-effect_1.mp3-6feb7a2d0facade1d94f24d63c449018.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
